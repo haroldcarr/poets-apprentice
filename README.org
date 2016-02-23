@@ -1,0 +1,33 @@
+* Overview
+
+One scenario: for given input text in English:
+- take each word back to IE (if possible)
+- expand IE forward to English
+- present all choices at once
+- making a choice constrains remaining choices via some parameter (e.g., derives from same or related root)
+
+* Resources
+
+- rewrite sources
+  - [[https://www.ahdictionary.com/word/indoeurop.html][Indo-European Roots]]
+
+- monadic plugins
+  - [[http://minikanren.org/][miniKanren]]
+
+- visualization
+  - [[https://github.com/reflex-frp/reflex][Reflex]]
+
+* History
+
+I did a version of the Poet's Apprentice in grad school using A* (for an AI class).
+I presented it with (for our Christmas cards that year):
+
+#+BEGIN_VERSE
+emit a circle of stellar affirmation
+#+END_VERSE
+
+it rewrote it to:
+
+#+BEGIN_VERSE
+beam a wheel of star yes
+#+END_VERSE
