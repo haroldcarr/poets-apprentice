@@ -22,12 +22,9 @@ One scenario: for given input text in English:
 I did a version of the Poet's Apprentice in grad school using A* (for an AI class).
 I presented it with (for our Christmas cards that year):
 
-#+BEGIN_VERSE
-emit a circle of stellar affirmation
-#+END_VERSE
+/emit a circle of stellar affirmation/
 
 it rewrote it to:
 
-#+BEGIN_VERSE
-beam a wheel of star yes
-#+END_VERSE
+/beam a wheel of star yes/
+
